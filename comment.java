@@ -4,8 +4,8 @@ c
 d
 e
 f
-g
-h
+g->ggg
+h->hhh
 i
 j
 k
